@@ -21,9 +21,9 @@ BULLETS (UNORDERD):
 - third
 
 CODE BLOCK:
-...
-this text in between triple backtick (')
+```
+this text in between triple backtick (`)
 should appear in a code font style
-...
+```
 
 Still learning. TBC...
